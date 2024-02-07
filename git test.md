@@ -22,3 +22,4 @@ Git- система управления версиями с распредел�
 Git- <https://git-scm.com/downloads>
 
 VS code- <https://code.visualstudio.com/download>
+GitHub- <https://github.com/>
